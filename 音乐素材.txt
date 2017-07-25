@@ -1,0 +1,82 @@
+var local_database = [
+    {
+        name: "理想三旬",
+        id: "31445772",
+        musicId:"1",
+        artists:{
+    name: "陈鸿宇",
+    id:"1058228",
+        },
+        album: {
+                name: "浓烟下的诗歌电台",
+                id: "3116882",
+                picUrl: "http://p3.music.126.net/_msXsY9oMY4MSG3OTN0U1A==/109951162849778878.jpg",
+                },
+        mp3Url: "http://m2.music.126.net/3KW-PmVF820wUth302USRA==/18817041997835251.mp3",
+lyric: "[00:00.00] 作曲 : 陈鸿宇\n[00:00.344] 作词 : 唐映枫\n[00:01.34]雨后有车驶来\n[00:04.11]驶过暮色苍白\n[00:06.39]旧铁皮往南开 恋人已不在\n[00:11.19]收听浓烟下的 诗歌电台\n[00:16.00]不动情的咳嗽 至少看起来\n[00:20.72]归途也还可爱\n[00:23.17]琴弦少了姿态\n[00:25.46]再不见那夜里 听歌的小孩\n[00:30.47]时光匆匆独白\n[00:32.68]将颠沛磨成卡带\n[00:35.11]已枯卷的情怀 踏碎成年代\n[00:40.27]\n[00:49.47]就老去吧 孤独别醒来\n[00:54.95]\n[00:55.61]你渴望的离开\n[00:59.84]只是无处停摆\n[01:04.00]就歌唱吧 眼睛眯起来\n[01:10.16]而热泪的崩坏\n[01:14.52]只是没抵达的存在\n[01:18.95]\n[01:37.39]青春又醉倒在\n[01:40.14]籍籍无名的怀\n[01:42.50]靠嬉笑来虚度 聚散得慷慨\n[01:47.29]辗转却去不到 对的站台\n[01:52.19]如果漂泊是成长 必经的路牌\n[01:56.83]你迷醒岁月中\n[01:59.14]那贫瘠的未来\n[02:01.72]像遗憾季节里 未结果的爱\n[02:06.11]弄脏了每一页诗\n[02:08.61]吻最疼痛的告白\n[02:11.16]而风声吹到这 已不需要释怀\n[02:16.02]就老去吧 孤独别醒来\n[02:20.90]\n[02:22.17]你渴望的离开\n[02:26.30]只是无处停摆\n[02:30.44]就歌唱吧 眼睛眯起来\n[02:36.30]而热泪的崩坏\n[02:40.52]只是没抵达的存在\n[02:47.54]\n[03:06.32]就甜蜜地忍耐\n[03:08.76]繁星润湿窗台\n[03:11.18]光影跳动着像在 困倦里说爱\n[03:15.98]再无谓的感慨\n[03:18.65]以为明白\n[03:20.72]梦倒塌的地方 今已爬满青苔\n",
+    },
+       {
+        name: "Dream It Possible",
+        id: "38592976",
+         musicId:"2",
+        artists:{
+    name: "Delacey",
+    id:"489045",
+        },
+        album: {
+                name: "Dream It Possible",
+                id: "3426477",
+                picUrl: "http://p3.music.126.net/AqaX6wFRiu5_W2z4RD4V1g==/2885118514463430.jpg",
+                },
+        mp3Url: "http://m2.music.126.net/9FXR9UAKzIRFUn5QPDTjEQ==/3286440257931121.mp3",
+lyric: "[00:08]I will run, I will climb, I will soar\n[00:13]I’m undefeated\n[00:16]Jumping out of my skin, pull the chord\n[00:21]Yeah I believe it\n[00:23]The past, is everything we were don’t make us who we are\n[00:26]So I’ll dream, until I make it real, and all I see is stars\n[00:37]Its not until you fall that you fly\n[00:43]When your dreams come alive you’re unstoppable\n[00:47]Take a shot, chase the sun, find the beautiful\n[00:51]We will glow in the dark turning dust to gold\n[00:55]And we’ll dream it possible\n[01:16]I will chase, I will reach, I will fly\n[01:20]Until I’m breaking, until I’m breaking\n[01:24]Out of my cage, like a bird in the night\n[01:28]I know I’m changing, I know I’m changing\n[01:31]In, into something big, better than before\n[01:39]And if it takes, takes a thousand lives\n[01:43]Then It’s worth fighting for\n[01:46]Its not until you fall that you fly\n[01:50]When your dreams come alive you’re unstoppable\n[01:55]Take a shot, chase the sun, find the beautiful\n[01:59]We will glow in the dark turning dust to gold\n[02:03]And we’ll dream it possible\n[02:23]From the bottom to the top\n[02:26]We’re sparking wild fire’s\n[02:28]Never quit and never stop\n[02:30]The rest of our lives\n[02:32]From the bottom to the top\n[02:34]We’re sparking wild fire’s\n[02:36]Never quit and never stop\n[02:39]Its not until you fall that you fly\n[02:45]When your dreams come alive you’re unstoppable\n[02:49]Take a shot, chase the sun, find the beautiful\n[02:53]We will glow in the dark turning dust to gold\n[02:57]And we’ll dream it possible possible\n",
+    },
+    {
+        name: "别送我（电影《乘风破浪》插曲）",
+        id: "456185374",
+        musicId: "3",
+        artists: {
+            name: "陈鸿宇",
+            id: "1058228",
+        },
+        album: {
+            name: "别送我",
+            id: "35157147",
+            picUrl: "http://p4.music.126.net/xejDwyT3y0nJa6tn6GEyJw==/18781857627425190.jpg",
+        },
+        mp3Url: "http://m2.music.126.net/pdYMDJmJwnSOxz2V-HEJ9Q==/18812643953014180.mp3",
+        lyric: "[00:00.00] 作曲 : Hedy West\n[00:00.646] 作词 : Hedy West\n[00:01.940]改编自：Five Hundred Miles\n[00:03.820]中文改编词作者：韩寒\n[00:05.380]制作人：彭飞/彭海桐\n[00:10.760]别送我 说再见吧\n[00:16.460]故乡已在身后了\n[00:20.930]你不要再想起我\n[00:25.570]请别送我\n[00:30.830]请别送我 请别送我\n[00:35.830]请别送我 请别送我\n[00:41.290]就当我是那云朵 请别送我\n[00:51.720]云一朵 云两朵\n[00:56.530]云三朵 云四朵\n[01:01.680]爱人别看云朵了 请送别我\n[01:11.850]送别我 送别我\n[01:16.870]请送别我 请送别我\n[01:22.280]此去不知道归期 请送别我\n[01:32.480]云一朵 云两朵\n[01:37.380]云三朵 云四朵\n[01:42.570]爱人别看云朵了 请送别我\n[01:52.750]送别我 送别我\n[01:57.760]请送别我 请送别我\n[02:03.090]此去不知道归期 请送别我\n[02:13.360]别送我 说再见吧\n[02:19.060]故乡已在身后了\n[02:23.360]你不要再想起我 请别送我\n[02:33.790]你不要再想起我 请别送我\n",
+    },
+       {
+        name: "春风十里",
+        id: "38576323",
+         musicId:"4",
+        artists:{
+    name: "鹿先森乐队",
+    id:"1195028",
+        },
+        album: {
+                name: "所有的酒，都不如你",
+                id: "34976129",
+                picUrl: "http://p4.music.126.net/vOrGCPP-ozONI4IdlCgdfA==/18555358231321070.jpg",
+                },
+        mp3Url: "http://m2.music.126.net/ma_kjS1Xkp1UzAQ6wUiIeg==/18597139673248859.mp3",
+lyric: "[00:05.42]作曲 : 倍倍\n[00:06.15]作词 : 倍倍\n[00:06.83]编曲：鹿先森乐队\n[00:07.32]制作人：李卓\n[00:07.84]和音: 李卓 杨博士\n[00:08.41]弦乐编配：李卓\n[00:09.21]原声吉他: 杨博士\n[00:10.99]电吉他：董二胖\n[00:12.75]钢琴：冰冰\n[00:14.58]贝斯：李斯\n[00:16.32]鼓：PP\n[00:18.10]录音棚：Tweak Tone Labs\n[00:19.79]混音：李卓\n[00:20.81]\n[00:22.69]我在二环路的里边 想着你\n[00:30.27]你在远方的山上 春风十里\n[00:37.11]今天的风吹向你 下了雨\n[00:44.26]我说所有的酒 都不如你\n[00:49.13]\n[00:51.80]我在鼓楼的夜色中 为你唱花香自来\n[00:58.56]在别处 沉默相遇和期待\n[01:05.59]飞机飞过 车水马龙的城市\n[01:12.75]千里之外 不离开\n[01:18.22]\n[01:19.41]把所有的春天 都揉进了一个清晨\n[01:26.46]把所有停不下的言语变成秘密 关上了门\n[01:33.52]莫名的的情愫啊 请问 谁来将它带走呢\n[01:40.87]只好把岁月化成歌 留在山河\n[02:16.62]我在鼓楼的夜色中 为你唱花香自来\n[02:23.74]在别处 沉默相遇和期待\n[02:30.91]飞机飞过 车水马龙的城市\n[02:38.50]千里之外 不离开\n[02:42.44]\n[02:45.19]把所有的春天 都揉进了一个清晨\n[02:52.29]把所有停不下的言语变成秘密 关上了门\n[02:59.70]莫名的的情愫啊 请问 谁来将它带走呢\n[03:07.27]只好把岁月化成歌 留在山河\n[04:09.91]\n[04:11.10]把所有的春天 都揉进了一个清晨\n[04:17.31]把所有停不下的言语变成秘密 关上了门\n[04:25.34]莫名的的情愫啊 请问 谁来将它带走呢\n[04:32.34]只好把岁月化成歌 留在山河\n[04:37.80]\n[04:39.72]我在二环路的里边 想着你\n[04:47.60]你在远方的山上 春风十里\n[04:54.71]今天的风吹向你 下了雨\n[05:02.16]我说所有的酒 都不如你\n",
+    },
+       {
+        name: "让我留在你身边",
+        id: "438801672",
+         musicId:"5",
+        artists:{
+    name: "陈奕迅",
+    id:"2116",
+        },
+        album: {
+                name: "让我留在你身边",
+                id: "34961173",
+                picUrl: "http://p3.music.126.net/71YQw1K88LS06iMjLRY5CA==/18610333812708195.jpg",
+                },
+        mp3Url: "http://m2.music.126.net/GVAsKFbuPTysYO2G49V8ag==/18676304510962819.mp3",
+lyric: "[00:00.00] 作曲 : 唐汉霄\n[00:00.306] 作词 : 唐汉霄\n[00:00.920]我从来不说话\n[00:03.930]因为我害怕\n[00:06.790]没有人回答\n[00:12.080]我从来不挣扎\n[00:14.970]因为我知道\n[00:18.040]这世界太大\n[00:23.390]太多时间浪费\n[00:26.160]太多事要面对\n[00:28.610]太多已无所谓\n[00:34.610]太多难辨真伪\n[00:37.230]太多纷扰是非\n[00:40.110]在你身边是谁\n[00:46.040]最渺小的我\n[00:49.220]有大大的梦\n[00:51.890]时间向前走一定只有路口没有尽头\n[00:58.250]纷纷扰扰这个世界\n[01:01.760]所有的了解\n[01:03.950]只要 让我留在你身边\n[01:09.000]最渺小的我\n[01:11.820]有大大的梦\n[01:14.430]我愿意安静的活在每个有你的角落\n[01:20.860]如果生活还有什么 会让你难过\n[01:26.510]别怕 让我留在你身边\n[01:31.390]都陪你渡过\n[01:54.130]最渺小的我\n[01:56.870]最卑微的梦\n[01:59.680]我发现这世界没有那么那么的不同\n[02:06.020]现实如果对你不公\n[02:09.500]别计较太多\n[02:11.670]走吧 暴风雨后的彩虹\n[02:19.520]也许会落空\n[02:22.420]也许会普通\n[02:25.130]也许这庸庸碌碌的黑白世界你不懂\n[02:31.450]生命中所有的路口\n[02:35.100]绝不是尽头\n[02:37.200]别怕 让我留在你身边\n[02:44.950]都陪你渡过\n",
+    },
+]

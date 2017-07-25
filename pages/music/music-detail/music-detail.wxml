@@ -1,0 +1,17 @@
+<view class="container">
+  <view class="music-backgroundImg">
+    <image class="backgroundImg" src="{{musicData.album.picUrl}}" mode="aspectFill"></image>
+    <image animation="{{animationData}}" class="detailImg" src="{{musicData.album.picUrl}}" mode="aspectFill"></image>
+  </view>
+  <view class="musicdetail-container">
+    <scroll-view class="lyric" scroll-y="true" scroll-top="10">
+      <text>{{musicData.lyric}}</text>
+    </scroll-view>
+    <view class="music-control">
+      <image catchtap="onPreviousTap" src="/images/icon/previous.png"></image>
+      <image catchtap="onStartTap" wx:if="{{isPlayingMusics[musicId - 1]}}" src="/images/icon/pause.png"></image>
+      <image catchtap="onStartTap" wx:else src="/images/icon/start.png"></image>
+      <image catchtap="onNextTap" src="/images/icon/next.png"></image>
+    </view>
+  </view>
+</view>

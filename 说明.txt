@@ -1,0 +1,27 @@
+网易云音乐API
+1.获取歌曲信息
+Full request URI: http://music.163.com/api/song/detail/?id=28377211&ids=%5B28377211%5D
+URL：
+
+GET  http://music.163.com/api/song/detail/
+
+必要参数：
+
+id：歌曲ID
+
+ids：不知道干什么用的，用[]括起来的歌曲ID
+2.获取歌词
+URI: http://music.163.com/api/song/lyric?os=pc&id=93920&lv=-1&kv=-1&tv=-1
+URL：
+
+GET http://music.163.com/api/song/lyric
+
+必要参数：
+
+id：歌曲ID
+
+lv：值为-1，我猜测应该是判断是否搜索lyric格式
+
+kv：值为-1，这个值貌似并不影响结果，意义不明
+
+tv：值为-1，是否搜索tlyric格式

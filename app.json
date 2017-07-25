@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/music/music",
+    "pages/music/music-detail/music-detail",
+    "pages/movies/movies",
+    "pages/movies/movie-detail/movie-detail",
+    "pages/movies/more-movie/more-movie"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#405f80"
+  },
+   "tabBar": {
+    "borderStyle": "white",
+    "position":"bottom",
+    "list": [
+      {
+        "pagePath": "pages/music/music",
+        "text": "音乐",
+        "iconPath": "images/tab/music.png",
+        "selectedIconPath": "images/tab/music_hl.png"
+      },
+      {
+        "pagePath": "pages/movies/movies",
+        "text": "电影",
+        "iconPath": "images/tab/dianying.png",
+        "selectedIconPath": "images/tab/dianying_hl.png"
+      }
+    ]
+  }
+}

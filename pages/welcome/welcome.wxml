@@ -1,0 +1,7 @@
+<view class="container">
+  <image class="avatar" src="/images/avatar/6.png"></image>
+  <text class="motto">Hi~</text>
+  <view class="journey-container" bindtap="onTap">
+    <text class="journey">Let's go !</text>
+  </view>
+</view>

@@ -1,0 +1,14 @@
+<template name="musicTemplate">
+  <view class="container">
+    <view class="music-container">
+      <image class="paly" src="{{isPlayingMusic?'/images/icon/play.png':' '}}"></image>
+      <view class="content" catchtap="onMusicDetailTap" data-musicid="{{musicId}}">
+        <text class="name">{{musicId}}.{{name}}</text>
+        <text class="artists">{{artists.name}}-{{album.name}}</text>
+      </view>
+      <image class="starts" wx:if="{{isPlayingMusic}}" catchtap="onMusicTap" data-musicid="{{musicId}}" src="/images/icon/pauses.png"></image>
+      <image class="starts" wx:else catchtap="onMusicTap" data-musicid="{{musicId}}" src="/images/icon/starts.png"></image>
+    </view>
+    <view class="horizon"></view>
+  </view>
+</template>

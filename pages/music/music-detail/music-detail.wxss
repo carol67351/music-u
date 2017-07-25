@@ -1,0 +1,63 @@
+.container {
+  width: 100%;
+}
+
+.music-backgroundImg {
+  width: 100%;
+  height: 350rpx;
+}
+
+.backgroundImg {
+  width: 100%;
+  height: 350rpx;
+  -webkit-filter: blur(24px);
+  z-index: -99;
+}
+
+.detailImg {
+  position: absolute;
+  width: 250rpx;
+  height: 250rpx;
+  border-radius: 50%;
+  left: 50%;
+  margin-left: -125rpx;
+  margin-top: 50rpx;
+}
+
+.musicdetail-container {
+  display: flex;
+  flex-direction: column;
+  padding: 10rpx 10rpx;
+  width: 450rpx;
+  margin: 0 auto;
+}
+
+.lyric {
+  width: 400rpx;
+  height: 400rpx;
+  overflow:hidden;
+  vertical-align: middle;
+  margin: 50rpx auto;
+  color: #999;
+  font-size: 28rpx;
+  line-height: 78rpx;
+}
+
+.music-control {
+  border: 1px solid #666;
+  border-radius: 5rpx;
+  -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  vertical-align: middle;
+  height: 75rpx;
+  width: 400rpx;
+  margin-top: 30rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 35rpx;
+}
+
+.music-control image {
+  width: 48rpx;
+  height: 48rpx;
+}
